@@ -4,7 +4,6 @@ from streamlit_webrtc import webrtc_streamer
 import av
 import streamlit as st
 import mediapipe as mp
-import streamlit.components.v1 as components
 
 html_code = '''
 <style>
