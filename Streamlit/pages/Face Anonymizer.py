@@ -1,4 +1,4 @@
-import opencv-python as cv2
+import cv2
 import numpy as np
 from streamlit_webrtc import webrtc_streamer
 import av
